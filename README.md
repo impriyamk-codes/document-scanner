@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 
-## Usage (CLI - IMPORTANT)
+## Usage (CLI)
 
 Run the scanner from terminal:
 
@@ -68,12 +68,6 @@ py main.py --input test.jpg --output result.pdf
 * `--input` → Path to input image
 * `--output` → Output PDF file
 
-
-## Usage (Streamlit UI - Optional)
-
-```bash
-streamlit run webapp/streamlit_app.py
-```
 
 ## How It Works
 
