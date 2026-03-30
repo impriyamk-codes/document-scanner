@@ -44,7 +44,7 @@ document-scanner/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/document-scanner.git
+git clone https://github.com/<impriyamk-codes>/document-scanner.git
 cd document-scanner
 ````
 
